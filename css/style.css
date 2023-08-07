@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+}
+.box {
+  background: slateblue;
+  padding: 20px;
+  border-radius: 20px;
+  color: #fff;
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+  gap: 20px;
+}
